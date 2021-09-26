@@ -14,7 +14,15 @@
   "author": "Diego Linares <diegojeanluck@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "personal-random-msg": "./bin/global.js"
+    "personal-random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoLinares319/personal-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiegoLinares319/personal-random-messages/issues"
+  },
+  "homepage": "https://github.com/DiegoLinares319/personal-random-messages#readme"
 }
