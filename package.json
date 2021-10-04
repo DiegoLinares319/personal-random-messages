@@ -1,6 +1,6 @@
 {
   "name": "personal-random-messages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test package made to put knowledge of npm into practice",
   "main": "src/index.js",
   "scripts": {
