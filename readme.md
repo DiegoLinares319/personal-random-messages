@@ -16,7 +16,7 @@ personal-random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [personal-random-msg](https://github.com/DiegoLinares319/personal-random-messages)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [personal-random-msg](https://github.com/WardenCode/personal-random-messages)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
